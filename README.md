@@ -1,4 +1,4 @@
 - 👋 Hi, I’m 曾亨 / Zeng Heng
 - :first_quarter_moon: Work on linux kernel development
 - 📫 Reach me by henryz_e@163.com
-- 🌱 Develop C compiler for fun
+- 🌱 Develop OS kernel/C compiler/FPGA design for fun
